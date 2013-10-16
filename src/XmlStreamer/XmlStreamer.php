@@ -4,6 +4,10 @@
 //
 // extended by Valiton GmbH, SEP/2012
 
+namespace XmlStreamer;
+
+use Exception;
+
 abstract class XmlStreamer
 {
     private $handle;

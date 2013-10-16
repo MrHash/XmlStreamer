@@ -1,0 +1,15 @@
+{
+    "name": "pwerk/xmlstreamer",
+    "description": "Helper class to parse XML files",
+    "authors": [
+        {
+            "name": "pwerk",
+            "role": "developer"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "XmlStreamer": "src/"
+        }
+    }
+}
